@@ -1,0 +1,11 @@
+{
+  "name": "earlier-nuclear",
+  "version": "1.0.0",
+  "title": "Earlier Nuclear",
+  "author": "ditpowuh",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Kovarex enrichment and nuclear fuel reprocessing without purple science, atomic bombs at Military 3 without yellow science."
+}
